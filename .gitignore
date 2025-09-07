@@ -1,6 +1,12 @@
 # project specific
 internal.md
 
+# terraform
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
